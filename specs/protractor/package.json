@@ -1,0 +1,25 @@
+{
+  "name": "ui-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one_spec.js",
+  "dependencies": {
+    "npm-check-updates": "^2.8.6"
+  },
+  "devDependencies": {
+    "jasmine-expect": "^3.0.1",
+    "jasmine-reporters": "^2.2.0",
+    "protractor-jasmine2-html-reporter": "0.0.6",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.2"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HalinaHul@bitbucket.org/transformify/ui-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/transformify/ui-tests#readme"
+}
